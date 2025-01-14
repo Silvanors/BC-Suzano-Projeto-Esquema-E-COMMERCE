@@ -1,6 +1,7 @@
 
 #  Refinando um Projeto Conceitual de Banco de Dados: E-COMMERCE
-<br/>
+
+
 ## 📑 Objetivo:
 
 Refine o modelo apresentado [E-commerce](E-commerce.png) acrescentando os seguintes pontos:<br/>
