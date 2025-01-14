@@ -11,7 +11,8 @@ Refine o modelo apresentado [E-commerce](E-commerce.png) acrescentando os seguin
 * Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
 * Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
 * Entrega – Possui status e código de rastreio;
-
+<br/>
+* Após trabalho no refinamento do modelo foi disponibilizado para entrega [E-commerce_refinado](E-commerce_refinado.png).
 <hr/>
 
 **reproduzido by** [Silvano Rodrigues 🖖](https://github.com/Silvanors)
